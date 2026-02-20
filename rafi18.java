@@ -7,7 +7,7 @@ public class rafi18 {
 public rafi18() {
 }
 
-public rafi18(String nm, String nim, String kls, double ipk) {
+public rafi18(String nm, String nim, String kls, double ipk)     {
     nama = nm;
     this.nim = nim;
     kelas = kls;
